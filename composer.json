@@ -1,0 +1,9 @@
+{
+    "name": "jairopumpun/php-maptiler",
+    "type": "library",
+    "description": "PHP Map Tiler",
+    "keywords": ["map", "tiles", "image processing"],
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
