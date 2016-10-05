@@ -3,6 +3,7 @@
     "type": "library",
     "description": "PHP Map Tiler",
     "keywords": ["map", "tiles", "image processing"],
+	"version": "0.0.1",
     "require": {
         "php": ">=5.3.3"
     }
